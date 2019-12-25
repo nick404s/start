@@ -10,10 +10,6 @@ html {
   background-size: cover;
 }
 
-.flex-h1{
-	flex: 2 2 20em;
-}
-
 h1{
 	font-size: 3rem;
 	color: rgba(171,57,57,1);;
@@ -30,7 +26,7 @@ hr{
 }
 
 .buffer{
-	height: 20rem;
+	height: 17rem;
 }
 
 .btn{
